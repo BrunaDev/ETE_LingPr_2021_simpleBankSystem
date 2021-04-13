@@ -1,2 +1,2 @@
 Criei uma nova linha no github - aula do dia 12/04.
-Simulando um conflito no navegador.
+Simulando um conflito no navegador 01.
