@@ -1,1 +1,3 @@
 Adicionei uma nova linha no dia 12/04
+Linha editada no GitHub do navegador.
+

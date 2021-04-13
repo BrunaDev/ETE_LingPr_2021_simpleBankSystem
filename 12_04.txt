@@ -1,1 +1,2 @@
-linha alterada no meu notebook, simulando um conflito.
+Editei o arquivo localmente - aula do dia 12/04.
+Simulando um conflito no navegador.
