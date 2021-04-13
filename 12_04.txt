@@ -1,1 +1,2 @@
-Editei o arquivo localmente
+Editei o arquivo localmente - aula do dia 12/04.
+Simulando um conflito no navegador.
