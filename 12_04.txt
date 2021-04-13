@@ -1,1 +1,2 @@
-Criei uma nova linha no github
+Criei uma nova linha no github - aula do dia 12/04.
+Simulando um conflito no navegador.
